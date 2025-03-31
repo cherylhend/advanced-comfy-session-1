@@ -788,7 +788,7 @@
     },
     "66": {
         "inputs": {
-            "default_value": "",
+            "default_value": "Plate on table in garden",
             "label": "Background Prompt"
         },
         "class_type": "FSLoadText",
