@@ -82,7 +82,7 @@
                 122
             ],
             "flags": {},
-            "order": 14,
+            "order": 12,
             "mode": 0,
             "inputs": [
                 {
@@ -241,7 +241,7 @@
                 186
             ],
             "flags": {},
-            "order": 21,
+            "order": 22,
             "mode": 0,
             "inputs": [
                 {
@@ -553,7 +553,7 @@
                 46
             ],
             "flags": {},
-            "order": 15,
+            "order": 13,
             "mode": 0,
             "inputs": [
                 {
@@ -596,7 +596,7 @@
                 218
             ],
             "flags": {},
-            "order": 11,
+            "order": 10,
             "mode": 0,
             "inputs": [
                 {
@@ -648,15 +648,15 @@
             "id": 26,
             "type": "CLIPTextEncode",
             "pos": [
-                625.7785034179688,
-                1099.9119873046875
+                643.1118774414062,
+                1077.2445068359375
             ],
             "size": [
                 422.84503173828125,
                 164.31304931640625
             ],
             "flags": {},
-            "order": 12,
+            "order": 16,
             "mode": 0,
             "inputs": [
                 {
@@ -737,7 +737,7 @@
                 82
             ],
             "flags": {},
-            "order": 16,
+            "order": 14,
             "mode": 0,
             "inputs": [
                 {
@@ -1128,7 +1128,7 @@
             "flags": {
                 "collapsed": false
             },
-            "order": 13,
+            "order": 17,
             "mode": 0,
             "inputs": [
                 {
@@ -1263,7 +1263,7 @@
                 82
             ],
             "flags": {},
-            "order": 22,
+            "order": 21,
             "mode": 0,
             "inputs": [
                 {
@@ -1304,7 +1304,7 @@
                 58
             ],
             "flags": {},
-            "order": 17,
+            "order": 15,
             "mode": 0,
             "inputs": [
                 {
@@ -1534,7 +1534,7 @@
                 196.48919677734375
             ],
             "flags": {},
-            "order": 10,
+            "order": 11,
             "mode": 0,
             "inputs": [
                 {
@@ -2177,7 +2177,7 @@
                 318
             ],
             "flags": {},
-            "order": 6,
+            "order": 5,
             "mode": 0,
             "inputs": [],
             "outputs": [
@@ -2213,7 +2213,7 @@
                 200
             ],
             "flags": {},
-            "order": 5,
+            "order": 6,
             "mode": 0,
             "inputs": [],
             "outputs": [
@@ -2232,7 +2232,7 @@
                 "Node name for S&R": "FSLoadText"
             },
             "widgets_values": [
-                "",
+                "Plate on table in garden",
                 "Background Prompt"
             ]
         }
@@ -2990,10 +2990,10 @@
     "config": {},
     "extra": {
         "ds": {
-            "scale": 1.1,
+            "scale": 0.7513148009015777,
             "offset": [
-                348.52781037275685,
-                -1105.2488359269257
+                818.0659921909389,
+                -917.3155308931168
             ]
         }
     },
